@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-How I experience climate change in my everyday life.
+How I experience climate change through my six senses in my everyday life.
 
 ### [Read the tutorial](https://www.angelinebuck.com/sixsenses/) | [View the demo](http://abdases.github.io/sixsenses)
 
