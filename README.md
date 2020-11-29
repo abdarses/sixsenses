@@ -4,7 +4,7 @@
 
 How I experience climate change in my everyday life.
 
-### [Read the tutorial](https://www.taniarascia.com/how-to-create-a-memory-game-super-mario-with-plain-javascript/) | [View the demo](http://taniarascia.github.io/memory)
+### [Read the tutorial](https://www.angelinebuck.com/sixsenses/) | [View the demo](http://abdases.github.io/sixsenses)
 
 ## Instructions
 
